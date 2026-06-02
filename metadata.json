@@ -1,0 +1,6 @@
+{
+  "name": "Image Upscaler",
+  "description": "An interactive image upscaler application featuring an ultra-high-resolution showcase of the glass green apple alongside an customizable upscaling engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
